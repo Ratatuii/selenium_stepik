@@ -1,2 +1,5 @@
 # selenium_stepik
-https://stepik.org/course/575/syllabus
+Выполнение домашних заданий по курсу https://stepik.org/course/575/syllabus
+
+****
+
