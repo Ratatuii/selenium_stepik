@@ -21,7 +21,7 @@ try:
 
     file = browser.find_element_by_css_selector("input[type='file']")
     current_dir = os.path.abspath(os.path.dirname(__file__))
-    file_path = os.path.join(current_dir, 'test.txt')
+    file_path = os.path.join(current_dir, '../test.txt')
     file.send_keys(file_path)
     # Отправляем заполненную форму
     browser.find_element_by_css_selector('button.btn').click()
